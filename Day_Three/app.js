@@ -103,5 +103,5 @@ const calculateOxygenRating = () => {
 
 }
 
-//calculatePowerConsumption();
+calculatePowerConsumption();
 calculateOxygenRating();
